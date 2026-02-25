@@ -1,2 +1,2 @@
 print("Hello World")
-print("Test 24")
+print("Test 25")
